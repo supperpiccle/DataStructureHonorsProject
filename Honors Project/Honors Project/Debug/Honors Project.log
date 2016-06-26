@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\classes\freshman\semester_2\data structures\honors_project\visual studio version\honors project\main.cpp(12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  RedBlackTree.cpp
+  BinarySearchTree.cpp
+  Honors Project.vcxproj -> C:\Classes\Freshman\Semester_2\Data Structures\Honors_Project\visual studio version\Honors Project\Debug\Honors Project.exe
